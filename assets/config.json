@@ -1,0 +1,25 @@
+{
+  "app": {
+    "window": {
+      "sizeLocked": false,
+      "maximizable": true,
+      "minimizable": true,
+      "alwaysOnTop": false,
+      "allowMultipleWindow": false,
+      "size": [
+        800,
+        600
+      ]
+    },
+    "project": {
+      "defaultName": "新合同-${time}",
+      "autoSave": true,
+      "autoSaveInterval": 5
+    },
+    "codeGeneration": {
+      "html": {
+        "minified": false
+      }
+    }
+  }
+}
